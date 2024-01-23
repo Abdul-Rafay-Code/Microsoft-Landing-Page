@@ -1,0 +1,43 @@
+@media only screen and (max-width: 950px) {
+    .li-1 {
+        display: none;
+
+    }
+
+}
+@media only screen and (min-width: 500px){
+.icon-1{
+    display: none;
+}
+}
+.div-2{
+    margin-top: 5%;
+    /* margin-left: 10px; */
+}
+@media only screen and (min-width: 760px){
+    .div-2{
+        margin-top: 30%;
+         
+    }
+    }
+.c-item{
+    /* width: 100%; */
+    /* position: relative; */
+    height: 30rem;
+}
+
+.div-3{
+    background-color: #d3cfcc;
+}
+.div-4{
+    background-color: #7fb9f3c4;
+}
+.mask1 {
+    -webkit-mask-image: linear-gradient(to right,transparent 9%,  black 15%);
+    mask-image: linear-gradient(to right,transparent 5%,  black 15%);
+}
+
+.mask-2{
+    -webkit-mask-image: linear-gradient(to right, transparent , black );
+    mask-image: linear-gradient(to right, transparent , black );
+}
