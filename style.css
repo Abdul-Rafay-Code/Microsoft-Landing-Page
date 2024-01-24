@@ -41,3 +41,13 @@
     -webkit-mask-image: linear-gradient(to right, transparent , black );
     mask-image: linear-gradient(to right, transparent , black );
 }
+#ul-1{
+    list-style: none;
+    display: flex;
+    gap: 9px;
+}
+#ul-2{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
